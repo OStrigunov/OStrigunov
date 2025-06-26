@@ -22,4 +22,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OStrigunov)](https://github.com/OStrigunov)
 
-[![3D Contributions](https://github-profile-3d-contrib.vercel.app/?username=OStrigunov)](https://github.com/OStrigunov)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OStrigunov)](https://github.com/OStrigunov)
